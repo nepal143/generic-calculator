@@ -1,0 +1,11 @@
+C:\Users\IM-RT-LP-749\source\repos\CalculatorConsole\CalculatorConsole\bin\Debug\CalculatorConsole.exe.config
+C:\Users\IM-RT-LP-749\source\repos\CalculatorConsole\CalculatorConsole\bin\Debug\CalculatorConsole.exe
+C:\Users\IM-RT-LP-749\source\repos\CalculatorConsole\CalculatorConsole\bin\Debug\CalculatorConsole.pdb
+C:\Users\IM-RT-LP-749\source\repos\CalculatorConsole\CalculatorConsole\obj\Debug\CalculatorConsole.csproj.AssemblyReference.cache
+C:\Users\IM-RT-LP-749\source\repos\CalculatorConsole\CalculatorConsole\obj\Debug\CalculatorConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\IM-RT-LP-749\source\repos\CalculatorConsole\CalculatorConsole\obj\Debug\CalculatorConsole.csproj.CoreCompileInputs.cache
+C:\Users\IM-RT-LP-749\source\repos\CalculatorConsole\CalculatorConsole\obj\Debug\CalculatorConsole.exe
+C:\Users\IM-RT-LP-749\source\repos\CalculatorConsole\CalculatorConsole\obj\Debug\CalculatorConsole.pdb
+C:\Users\IM-RT-LP-749\source\repos\CalculatorConsole\CalculatorConsole\bin\Debug\GenericCalculator.dll
+C:\Users\IM-RT-LP-749\source\repos\CalculatorConsole\CalculatorConsole\bin\Debug\GenericCalculator.pdb
+C:\Users\IM-RT-LP-749\source\repos\CalculatorConsole\CalculatorConsole\obj\Debug\CalculatorConsole.csproj.CopyComplete

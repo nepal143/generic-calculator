@@ -1,0 +1,28 @@
+C:\Users\IM-RT-LP-749\source\repos\CalculatorUI\CalculatorUI\bin\Debug\CalculatorUI.exe.config
+C:\Users\IM-RT-LP-749\source\repos\CalculatorUI\CalculatorUI\bin\Debug\CalculatorUI.exe
+C:\Users\IM-RT-LP-749\source\repos\CalculatorUI\CalculatorUI\bin\Debug\CalculatorUI.pdb
+C:\Users\IM-RT-LP-749\source\repos\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.csproj.AssemblyReference.cache
+C:\Users\IM-RT-LP-749\source\repos\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\IM-RT-LP-749\source\repos\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.Properties.Resources.resources
+C:\Users\IM-RT-LP-749\source\repos\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.csproj.GenerateResource.cache
+C:\Users\IM-RT-LP-749\source\repos\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.csproj.CoreCompileInputs.cache
+C:\Users\IM-RT-LP-749\source\repos\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.exe
+C:\Users\IM-RT-LP-749\source\repos\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.pdb
+C:\Users\IM-RT-LP-749\source\repos\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.Form1.resources
+C:\Users\IM-RT-LP-749\source\repos\CalculatorUI\CalculatorUI\bin\Debug\GenericCalculator.dll
+C:\Users\IM-RT-LP-749\source\repos\CalculatorUI\CalculatorUI\bin\Debug\GenericCalculator.pdb
+C:\Users\IM-RT-LP-749\source\repos\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.csproj.CopyComplete
+N:\sir ke files\AIT WinForm Workshop\CalculatorUI\CalculatorUI\bin\Debug\CalculatorUI.exe.config
+N:\sir ke files\AIT WinForm Workshop\CalculatorUI\CalculatorUI\bin\Debug\CalculatorUI.exe
+N:\sir ke files\AIT WinForm Workshop\CalculatorUI\CalculatorUI\bin\Debug\CalculatorUI.pdb
+N:\sir ke files\AIT WinForm Workshop\CalculatorUI\CalculatorUI\bin\Debug\GenericCalculator.dll
+N:\sir ke files\AIT WinForm Workshop\CalculatorUI\CalculatorUI\bin\Debug\GenericCalculator.pdb
+N:\sir ke files\AIT WinForm Workshop\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.csproj.AssemblyReference.cache
+N:\sir ke files\AIT WinForm Workshop\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.csproj.SuggestedBindingRedirects.cache
+N:\sir ke files\AIT WinForm Workshop\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.Form1.resources
+N:\sir ke files\AIT WinForm Workshop\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.Properties.Resources.resources
+N:\sir ke files\AIT WinForm Workshop\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.csproj.GenerateResource.cache
+N:\sir ke files\AIT WinForm Workshop\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.csproj.CoreCompileInputs.cache
+N:\sir ke files\AIT WinForm Workshop\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.csproj.CopyComplete
+N:\sir ke files\AIT WinForm Workshop\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.exe
+N:\sir ke files\AIT WinForm Workshop\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.pdb

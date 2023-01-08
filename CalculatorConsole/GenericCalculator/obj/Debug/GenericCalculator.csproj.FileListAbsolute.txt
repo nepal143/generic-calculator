@@ -1,0 +1,12 @@
+C:\Users\IM-RT-LP-749\source\repos\CalculatorConsole\GenericCalculator\bin\Debug\GenericCalculator.dll
+C:\Users\IM-RT-LP-749\source\repos\CalculatorConsole\GenericCalculator\bin\Debug\GenericCalculator.pdb
+C:\Users\IM-RT-LP-749\source\repos\CalculatorConsole\GenericCalculator\obj\Debug\GenericCalculator.csproj.AssemblyReference.cache
+C:\Users\IM-RT-LP-749\source\repos\CalculatorConsole\GenericCalculator\obj\Debug\GenericCalculator.csproj.CoreCompileInputs.cache
+C:\Users\IM-RT-LP-749\source\repos\CalculatorConsole\GenericCalculator\obj\Debug\GenericCalculator.dll
+C:\Users\IM-RT-LP-749\source\repos\CalculatorConsole\GenericCalculator\obj\Debug\GenericCalculator.pdb
+N:\sir ke files\AIT WinForm Workshop\CalculatorConsole\GenericCalculator\bin\Debug\GenericCalculator.dll
+N:\sir ke files\AIT WinForm Workshop\CalculatorConsole\GenericCalculator\bin\Debug\GenericCalculator.pdb
+N:\sir ke files\AIT WinForm Workshop\CalculatorConsole\GenericCalculator\obj\Debug\GenericCalculator.csproj.AssemblyReference.cache
+N:\sir ke files\AIT WinForm Workshop\CalculatorConsole\GenericCalculator\obj\Debug\GenericCalculator.csproj.CoreCompileInputs.cache
+N:\sir ke files\AIT WinForm Workshop\CalculatorConsole\GenericCalculator\obj\Debug\GenericCalculator.dll
+N:\sir ke files\AIT WinForm Workshop\CalculatorConsole\GenericCalculator\obj\Debug\GenericCalculator.pdb
